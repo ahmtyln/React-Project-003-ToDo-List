@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Project-003-ToDo-List/static/css/main.2a0134aa.chunk.css",
+    "main.js": "/React-Project-003-ToDo-List/static/js/main.6cfe9ee4.chunk.js",
+    "main.js.map": "/React-Project-003-ToDo-List/static/js/main.6cfe9ee4.chunk.js.map",
+    "runtime-main.js": "/React-Project-003-ToDo-List/static/js/runtime-main.435dedad.js",
+    "runtime-main.js.map": "/React-Project-003-ToDo-List/static/js/runtime-main.435dedad.js.map",
+    "static/js/2.651e0d53.chunk.js": "/React-Project-003-ToDo-List/static/js/2.651e0d53.chunk.js",
+    "static/js/2.651e0d53.chunk.js.map": "/React-Project-003-ToDo-List/static/js/2.651e0d53.chunk.js.map",
+    "index.html": "/React-Project-003-ToDo-List/index.html",
+    "static/css/main.2a0134aa.chunk.css.map": "/React-Project-003-ToDo-List/static/css/main.2a0134aa.chunk.css.map",
+    "static/js/2.651e0d53.chunk.js.LICENSE.txt": "/React-Project-003-ToDo-List/static/js/2.651e0d53.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Project-003-ToDo-List/static/media/background.9b2b7bbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.435dedad.js",
+    "static/js/2.651e0d53.chunk.js",
+    "static/css/main.2a0134aa.chunk.css",
+    "static/js/main.6cfe9ee4.chunk.js"
+  ]
+}
